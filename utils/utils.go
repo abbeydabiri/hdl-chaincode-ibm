@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hyperledger/fabric/core/chaincode/lib/cid"
 	"github.com/hyperledger/fabric/core/chaincode/shim"
+	"github.com/hyperledger/fabric/core/chaincode/shim/ext/cid"
 )
 
 // Response struct to have consistent Response structure for all chaincode invokes
