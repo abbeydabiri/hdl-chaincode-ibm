@@ -1,9 +1,5 @@
 HDLChaincode.
 
-Sample Hyperledger Smartcontract Chaincode for a Mortgage Financing Platform
+IBM Blockchain Platform Hyperledger Smartcontract Chaincode for a Mortgage Financing Platform
 
-
-DevOps - Infrastructure Setup Resources:
-
-HyperLedger on Multiple Hosts:
-https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
+This codebase works for the IBM Platform as it is on a stable longterm release of hyperledger fabric 
